@@ -1,0 +1,11 @@
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.FormPhotoAlbum.resources
+C:\Users\Phillip\Documents\conestoga\1b\PROG1815 c#\PLu_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.CreateAlbumForm.resources
